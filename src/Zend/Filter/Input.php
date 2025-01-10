@@ -143,10 +143,10 @@ class Zend_Filter_Input
     /**
      * @param array $filterRules
      * @param array $validatorRules
-     * @param array $data       OPTIONAL
-     * @param array $options    OPTIONAL
+     * @param array|null $data       OPTIONAL
+     * @param array|null $options    OPTIONAL
      */
-    public function __construct($filterRules, $validatorRules, array $data = null, array $options = null)
+    public function __construct($filterRules, $validatorRules, array|null $data = null, array|null $options = null)
     {
         if ($options) {
             $this->setOptions($options);

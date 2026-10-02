@@ -6,4 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/diablomedia/zendframework1-filter-input/downloads)](https://packagist.org/packages/diablomedia/zendframework1-filter-input)
 [![License](https://poser.pugx.org/diablomedia/zendframework1-filter-input/license)](https://packagist.org/packages/diablomedia/zendframework1-filter-input)
 
+> [!WARNING]  
+> We've archived this repo as we're no longer using or maintaining Zend Framework 1
+
 This is just the Zend_Filter_Input component extracted from our fork of the Zend Framework 1 repo (https://github.com/diablomedia/zf1).
